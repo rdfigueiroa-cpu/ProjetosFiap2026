@@ -1,3 +1,19 @@
+# Autores
+Caroline de Castro Corrêa
+castrocaroline11@gmail.com
+
+Enzo França Sader
+efr4nca03@gmail.com
+
+Lucas Hideki Oliveira Koyama
+Lucaskoyamahhh@gmail.com
+
+Rodrigo Dias Figueiroa
+rdfigueiroa@gmail.com
+
+Tiago Lindgren Curi
+shopper.tiago@gmail.com
+
 # Entrega 2 - Estimativa de Custos AWS (FarmTech)
 
 Este diretório contém a análise comparativa de custos para a infraestrutura de nuvem da solução FarmTech, utilizando a Calculadora de Preços da AWS.
