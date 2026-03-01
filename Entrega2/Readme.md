@@ -36,8 +36,12 @@ Para atender aos requisitos técnicos solicitados, a configuração abaixo foi a
 ## 3. Decisão Final e Justificativa
 A região selecionada para a implementação da solução FarmTech é **South America (São Paulo)**.
 
-**Justificativa:**
+
 A escolha baseia-se no equilíbrio entre conformidade e performance:
 1. **Latência:** A proximidade geográfica com os sensores de campo no Brasil reduz o tempo de resposta na coleta e processamento de dados.
 2. **Conformidade Legal (LGPD):** Garante a soberania dos dados ao manter as informações sensíveis da operação agrícola em território nacional, atendendo a possíveis restrições regulatórias.
 3. **Desempenho:** A configuração `t3a.micro` oferece o balanço ideal de custo-benefício para rodar os scripts de análise (conforme detalhado na Entrega 1) com a memória RAM exigida.
+
+**Link do Youtube**
+
+https://youtu.be/cYuqXcmFdRg
