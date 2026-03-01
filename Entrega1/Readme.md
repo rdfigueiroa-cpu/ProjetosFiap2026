@@ -1,3 +1,19 @@
+# Autores
+Caroline de Castro Corrêa
+castrocaroline11@gmail.com
+
+Enzo França Sader
+efr4nca03@gmail.com
+
+Lucas Hideki Oliveira Koyama
+Lucaskoyamahhh@gmail.com
+
+Rodrigo Dias Figueiroa
+rdfigueiroa@gmail.com
+
+Tiago Lindgren Curi
+shopper.tiago@gmail.com
+
 # Entrega 1 - Análise de Sistemas e Arquitetura FarmTech
 Este diretório contém a análise técnica do sistema de monitoramento agrícola FarmTech.
 
